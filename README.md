@@ -18,9 +18,10 @@ To initialize:
 cd terraform/
 terraform init
 terraform plan
+```
+---
 
-
-🚧 Coming Soon
+### Coming Soon
 
 Planned additions:
 
