@@ -25,10 +25,10 @@ terraform plan
 
 Planned additions:
 
-    ✅ Jenkins pipelines (Jenkinsfile)
+- Jenkins pipelines (Jenkinsfile)
 
-    ✅ Dockerfiles and CI/CD demos
+- Dockerfiles and CI/CD demos
 
-    ✅ Kubernetes manifests
+- Kubernetes manifests
 
-    ✅ Bash scripts & provisioning logic
+- Bash scripts & provisioning logic
