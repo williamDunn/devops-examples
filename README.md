@@ -24,11 +24,7 @@ terraform plan
 ### Coming Soon
 
 Planned additions:
-
 - Jenkins pipelines (Jenkinsfile)
-
 - Dockerfiles and CI/CD demos
-
 - Kubernetes manifests
-
 - Bash scripts & provisioning logic
