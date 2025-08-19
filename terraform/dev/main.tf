@@ -44,6 +44,15 @@ resource "aws_instance" "web" {
 resource "aws_instance" "example1" {
   ami           = var.ami
   instance_type = var.instance_type1
+
+  lifecycle {
+    create_before_destroy = false
+    # prevent_destroy = true
+    #ignore_changes = [
+    #  tags["name"],
+    #]
+    #ignore changes = all
+  }
 }
 
 #create resources that have dependencies
