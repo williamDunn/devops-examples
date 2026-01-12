@@ -4,7 +4,7 @@ This repository contains infrastructure-as-code and automation examples, startin
 
 ---
 
-## 📦 Current Contents
+## Current Contents
 
 ### Terraform
 Located in: `terraform/`
